@@ -1,4 +1,4 @@
-# QueWander-Application
+# QueWander: Smart Navigation and Exploration Application
 
 <p float="left">
   <img src="assets/feature1.png" width="200" />
